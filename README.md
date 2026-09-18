@@ -36,41 +36,32 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" />
     &nbsp;About Me
   </h2>
+  <p><em>Engineering scalable systems &bull; Mastering data structures &bull; Building real-world products</em></p>
 </div>
 
-```javascript
-// 📄 romyajit.js
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-const romyajit = {
-    name:              "Romyajit Sahoo",
-    location:          "India 🇮🇳",
-    role:              "B.Tech CSE Student | 2nd Year, 3rd Semester",
+### 🧑‍💻 Who I Am
+- 🎓 **Education:** B.Tech in Computer Science & Engineering *(2nd Year, 3rd Sem)*
+- 📍 **Location:** India 🇮🇳
+- 🎯 **Aspiration:** Strong Software Engineer & Backend Developer
+- 💡 **Philosophy:** *Build, Break, Learn, Repeat 🔄*
+- 💬 **Motto:** *"Consistency beats talent when talent doesn't work consistently."*
 
-    currentGoal:       "Become a strong Software Engineer & Backend Developer",
-    currentlyBuilding: "EduTrack — Centralized Student Activity Platform 🎓",
+</td>
+<td width="50%" valign="top">
 
-    currentlyLearning: [
-        "Java",
-        "DSA",
-        "Recursion",
-        "LeetCode Problem Solving",
-        "React — Almost Complete",
-        "System Design Fundamentals",
-        "Gemini API"
-    ],
+### 🚀 What I Do & Build
+- 🎓 **Currently Building:** [EduTrack](https://github.com/Romyajit-Sahoo/EduTrack) — Centralized Student Activity Platform
+- 🧠 **Problem Solving:** Pattern-wise DSA & Active LeetCode Problem Solving
+- ⚛️ **Frontend Focus:** React *(Almost Complete)* for full-stack capability
+- 🌐 **Core Interests:** Backend Architecture, System Design, AI Applications & Gemini API
 
-    interests: [
-        "Backend Development",
-        "System Design",
-        "Problem Solving",
-        "DSA",
-        "AI Applications",
-        "Project Building"
-    ]
-};
-
-console.log(`Welcome to ${romyajit.name}'s GitHub! 🚀`);
-```
+</td>
+</tr>
+</table>
 
 <br/>
 
