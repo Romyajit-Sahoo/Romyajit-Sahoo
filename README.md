@@ -1,29 +1,28 @@
+<!-- Note: This README is intentionally structured so skills, projects, and current learning can be updated manually. -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ==================== ANIMATED HEADER BANNER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Romyajit%20Sahoo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a78bfa" alt="Header Banner" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Romyajit%20Sahoo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a78bfa" />
-
-<!-- TYPING ANIMATION -->
+<!-- ==================== TYPING ANIMATION ==================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=800&lines=Hey+There!+I'm+Romyajit+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+2nd+Year;Backend+Developer+in+the+Making+%F0%9F%9A%80;DSA+Enthusiast+%7C+LeetCode+Grinder+%F0%9F%94%A5;Building+EduTrack+%7C+Open+Source+Lover;System+Design+%7C+AI+Integrations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=800&lines=Hey+There!+I'm+Romyajit+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+2nd+Year;Backend+Developer+in+the+Making+%F0%9F%9A%80;DSA+Enthusiast+%7C+LeetCode+Problem+Solver+%F0%9F%94%A5;Building+EduTrack+%7C+Open+Source+Lover;System+Design+%7C+AI+Integrations" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- PROFILE BADGES ROW -->
+<!-- ==================== PROFILE BADGES ROW ==================== -->
 <a href="https://github.com/Romyajit-Sahoo">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/romyajitsahoo">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
 </a>
 <a href="https://leetcode.com/u/Romyajit-01010010/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Romyajit-Sahoo&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=Romyajit-Sahoo&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
 
 <br/><br/>
 
@@ -31,56 +30,43 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   ABOUT ME — CODE STYLE                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ==================== ABOUT ME ==================== -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" />
     &nbsp;About Me
   </h2>
 </div>
 
 ```javascript
-// 📄 romyajit.js  — Last updated: September 2026
+// 📄 romyajit.js
 
 const romyajit = {
     name:              "Romyajit Sahoo",
-    pronouns:          "He/Him",
     location:          "India 🇮🇳",
     role:              "B.Tech CSE Student | 2nd Year, 3rd Semester",
 
     currentGoal:       "Become a strong Software Engineer & Backend Developer",
     currentlyBuilding: "EduTrack — Centralized Student Activity Platform 🎓",
-    
-    learning: [
-        "Java (from scratch 🔥)",
-        "DSA — Pattern-wise approach",
-        "React (almost complete ⚛️)",
-        "Backend Development Fundamentals",
-        "MongoDB",
+
+    currentlyLearning: [
+        "Java",
+        "DSA",
+        "Recursion",
+        "LeetCode Problem Solving",
+        "React — Almost Complete",
         "System Design Fundamentals",
-        "AI Integrations (Gemini API)"
+        "Gemini API"
     ],
 
     interests: [
-        "Frontend & React Ecosystem",
         "Backend Development",
         "System Design",
         "Problem Solving",
-        "DSA & Competitive Programming",
+        "DSA",
         "AI Applications",
-        "Hackathons",
-        "Open Source"
-    ],
-
-    hackathons:     ["Smart India Hackathon (SIH)", "Adobe Hackathon"],
-    leetcodeSolved: "Real-time Synced 📈 (60+ Problems)",
-
-    funFact:     "I prefer clean backend logic over pretty UI 😄",
-    philosophy:  "Build, Break, Learn, Repeat 🔄",
-    motto:       "Consistency beats talent when talent doesn't work consistently"
+        "Project Building"
+    ]
 };
 
 console.log(`Welcome to ${romyajit.name}'s GitHub! 🚀`);
@@ -90,70 +76,49 @@ console.log(`Welcome to ${romyajit.name}'s GitHub! 🚀`);
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY LEARNING                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ==================== CURRENT LEARNING ==================== -->
 <div align="center">
   <h2>🔥 Currently Learning</h2>
-  <p><em>On a mission to become a world-class backend engineer — one concept at a time.</em></p>
+  <p><em>Focused skills and concepts actively being learned and built upon</em></p>
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Java-Basics-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
-      <sub>🔥 From Scratch</sub>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Java-Basics-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /><br/>
+      <sub>🔥 Learning from Scratch</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/DSA-Patterns-7c3aed?style=flat-square&logo=leetcode&logoColor=white" /><br/>
-      <sub>🔥 Pattern-wise</sub>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/DSA-Patterns-7c3aed?style=flat-square&logo=leetcode&logoColor=white" alt="DSA" /><br/>
+      <sub>🧠 Pattern-wise Solving</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Recursion-Current-e11d48?style=flat-square&logoColor=white" /><br/>
-      <sub>🔥 Current Topic</sub>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Recursion-Current_Topic-e11d48?style=flat-square&logoColor=white" alt="Recursion" /><br/>
+      <sub>🎯 Current Topic</sub>
     </td>
-    <td align="center" width="150">
+    <td align="center" width="160">
       <a href="https://leetcode.com/u/Romyajit-01010010/">
-        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=LeetCode&query=totalSolved&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FuserProfile%2FRomyajit-01010010&logo=leetcode&logoColor=white&color=FFA116&suffix=%2B%20Solved" /><br/>
-        <sub>🔥 Real-time Synced</sub>
+        <img src="https://img.shields.io/badge/LeetCode-Active_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /><br/>
+        <sub>⚡ Problem Solving</sub>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/React-Almost_Complete-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
-      <sub>⚡ Almost Complete</sub>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/React-Almost_Complete-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /><br/>
+      <sub>⚛️ Almost Complete</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/React_Hooks-Mastering-0284c7?style=flat-square&logo=react&logoColor=white" /><br/>
-      <sub>⚛️ State & Lifecycle</sub>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/MongoDB-Learning-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /><br/>
+      <sub>🗄️ Database & Projects</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/MongoDB-Learning-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
-      <sub>🔥 Database</sub>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/System_Design-Fundamentals-1d4ed8?style=flat-square&logoColor=white" alt="System Design" /><br/>
+      <sub>🏗️ Fundamentals</sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Auth_Systems-Learning-0080FF?style=flat-square&logo=auth0&logoColor=white" /><br/>
-      <sub>🔥 Auth</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/System_Design-Fundamentals-1d4ed8?style=flat-square&logoColor=white" /><br/>
-      <sub>🔥 Architecture</sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Gemini_API-AI_Integration-4285F4?style=flat-square&logo=google&logoColor=white" /><br/>
-      <sub>🔥 AI Apps</sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Backend_Dev-Focus-7c3aed?style=flat-square&logoColor=white" /><br/>
-      <sub>🔥 Core Goal</sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Open_Source-Contributing-orange?style=flat-square&logo=github&logoColor=white" /><br/>
-      <sub>🔥 Community</sub>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Gemini_API-AI_Integration-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" /><br/>
+      <sub>🤖 AI Integration</sub>
     </td>
   </tr>
 </table>
@@ -162,10 +127,7 @@ console.log(`Welcome to ${romyajit.name}'s GitHub! 🚀`);
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     DSA JOURNEY                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ==================== DSA JOURNEY ==================== -->
 <div align="center">
   <h2>⚔️ DSA Journey</h2>
   <p><em>"Every algorithm mastered is a superpower unlocked."</em></p>
@@ -206,28 +168,14 @@ console.log(`Welcome to ${romyajit.name}'s GitHub! 🚀`);
 </tr>
 </table>
 
-<div align="center">
-  <br/>
-  <a href="https://leetcode.com/u/Romyajit-01010010/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FuserProfile%2FRomyajit-01010010&logo=leetcode&logoColor=white&labelColor=1a1a2e&color=FFA116&suffix=%2B%20Problems%20Solved" alt="LeetCode Problems Solved" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Current%20Topic-Recursion%20%F0%9F%94%A5-e11d48?style=for-the-badge&labelColor=1a1a2e" />
-  <br/><br/>
-  <a href="https://leetcode.com/u/Romyajit-01010010/">
-    <img src="https://leetcard.jacoblin.cool/Romyajit-01010010?theme=tokyonight&font=Karma" alt="Romyajit's LeetCode Stats" />
-  </a>
-  <br/><br/>
-</div>
+<br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    REACT JOURNEY                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ==================== REACT JOURNEY ==================== -->
 <div align="center">
   <h2>⚛️ React Journey</h2>
+  <p><em>Status: Almost Complete &bull; Final Revision</em></p>
 </div>
 
 <table align="center">
@@ -237,25 +185,25 @@ console.log(`Welcome to ${romyajit.name}'s GitHub! 🚀`);
 ### ✅ Completed
 ```
 ✅  React Fundamentals
-✅  Components & JSX
-✅  Props & Prop Drilling
-✅  useState Hook
-✅  useEffect Hook
-✅  List Rendering & Mapping
-✅  Vite Setup & Config
+✅  JSX
+✅  Components
+✅  Props
+✅  useState
+✅  useEffect
+✅  Mapping / List Rendering
+✅  Vite
 ✅  React Project Development
 ```
 
 </td>
 <td valign="top" width="50%">
 
-### 🔄 Currently
+### 🔄 Final Stage
 ```
-🔄  React Deep Revision
-🔄  Advanced Project Building
+🔄  Concept Revision
+🔄  Project Building
+🔄  Better Architecture
 🔄  React + Backend Integration
-🔄  Context API & State Mgmt
-🔄  Performance Optimization
 ```
 
 </td>
@@ -266,13 +214,10 @@ console.log(`Welcome to ${romyajit.name}'s GitHub! 🚀`);
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ==================== TECH STACK ==================== -->
 <div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
-  <p><em>Technologies I've worked with and am actively learning</em></p>
+  <p><em>Technologies I work with and am actively learning</em></p>
 
 #### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -287,24 +232,23 @@ console.log(`Welcome to ${romyajit.name}'s GitHub! 🚀`);
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-#### 🗄️ Database & Auth
+#### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🔐 Authentication
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 
-#### 🤖 AI & Cloud
+#### 🤖 AI
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+#### ☁️ Cloud & Hosting
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### 🔧 Tools & Environment
+#### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -312,9 +256,8 @@ console.log(`Welcome to ${romyajit.name}'s GitHub! 🚀`);
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
+<!-- To add a new project: Copy one project card block below and update the details. -->
 
 <div align="center">
   <h2>🚀 Featured Projects</h2>
@@ -335,8 +278,7 @@ console.log(`Welcome to ${romyajit.name}'s GitHub! 🚀`);
 
 ```
 Tech Stack:
-React + Node.js + Express.js
-MongoDB + Appwrite
+React + MongoDB + Appwrite
 Gemini API + Cloudinary
 ```
 
@@ -347,6 +289,8 @@ Gemini API + Cloudinary
 - 💡 LeetCode Stats Integration
 - 📊 Admin Dashboard & Analytics
 - 📋 Complete Activity Tracking
+
+**Repository:** [github.com/Romyajit-Sahoo/EduTrack](https://github.com/Romyajit-Sahoo/EduTrack)
 
 </div>
 </td>
@@ -373,6 +317,8 @@ Vanilla CSS
 - 📈 Focus Analytics
 - 📅 Calendar View
 - 🌙 Dark Mode
+
+**Repository:** [github.com/Romyajit-Sahoo/Smart-To-Do-App](https://github.com/Romyajit-Sahoo/Smart-To-Do-App)
 
 </div>
 </td>
@@ -401,6 +347,8 @@ HTML + CSS
 - 🔁 Swap Currencies
 - 📱 Responsive Design
 
+**Repository:** [github.com/Romyajit-Sahoo/-Currency-Converter](https://github.com/Romyajit-Sahoo/-Currency-Converter)
+
 </div>
 </td>
 
@@ -425,6 +373,9 @@ Custom Animations
 - 💼 Resume Download
 - 📬 Contact Form
 
+**Repository:** [github.com/Romyajit-Sahoo/portfolio](https://github.com/Romyajit-Sahoo/portfolio)  
+**Live Demo:** [romyajitsahoo.vercel.app](https://romyajitsahoo.vercel.app)
+
 </div>
 </td>
 
@@ -435,79 +386,21 @@ Custom Animations
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  HACKATHONS & INNOVATION                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ==================== CURRENT FOCUS ==================== -->
 <div align="center">
-  <h2>🏆 Hackathons & Innovation</h2>
-  <p><em>"Hackathons taught me how to think fast, build smart, and never give up under pressure."</em></p>
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🇮🇳 Smart India Hackathon (SIH)
-**India's Biggest Hackathon**
-
-![SIH](https://img.shields.io/badge/Smart_India_Hackathon-Participated-FF6B35?style=for-the-badge&labelColor=1a1a2e)
-
-```
-Role: QA Tester
-Role: Documentation Lead
-Role: Bug Fixer
-Role: Feature Development
-```
-
-</td>
-<td align="center" width="50%">
-
-### 🎨 Adobe Hackathon
-**Adobe Innovation Challenge**
-
-![Adobe](https://img.shields.io/badge/Adobe_Hackathon-Participated-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=1a1a2e)
-
-```
-Role: QA Tester
-Role: Documentation
-Role: Bug Fixing
-Role: Feature Development
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Hackathons_Participated-2-a78bfa?style=for-the-badge&labelColor=1a1a2e" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Roles-QA_%7C_Docs_%7C_Dev-818cf8?style=for-the-badge&labelColor=1a1a2e" />
-  <br/><br/>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CURRENT FOCUS                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <h2>🎯 Current Focus — September 2026</h2>
+  <h2>🎯 Current Focus</h2>
   <p><em>What I'm actively working on right now</em></p>
-</div>
 
-<div align="center">
-
-| 🚀 Focus Area | 📊 Progress | 🏷️ Priority |
-|:---|:---:|:---:|
-| 🟠 Learning Java from Scratch | `████████░░` 80% | 🔴 High |
-| 🟡 LeetCode Daily Grind | `████████░░` 75% | 🔴 High |
-| ⚛️ React & Frontend Mastery | `█████████░` 90% | 🟢 Almost Complete |
-| 🔵 Building EduTrack | `████░░░░░░` 45% | 🔴 High |
-| 🟣 System Design Fundamentals | `████░░░░░░` 35% | 🟠 Medium |
-| ⚫ Preparing for Next SIH | `███░░░░░░░` 30% | 🟡 Ongoing |
+| 🚀 Focus Area | 🏷️ Status |
+| :--- | :---: |
+| ☕ Java | 🔥 Learning |
+| 🧠 DSA | 🔥 Active |
+| 🔄 Recursion | 🎯 Current Topic |
+| ⚡ LeetCode | ⚡ Active |
+| ⚛️ React | ✅ Almost Complete |
+| 🎓 EduTrack | 🚀 Building |
+| 🏗️ System Design | 📚 Learning |
+| 🤖 Gemini API | 🤖 Exploring |
 
 </div>
 
@@ -515,23 +408,20 @@ Role: Feature Development
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATISTICS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ==================== GITHUB STATISTICS ==================== -->
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Romyajit-Sahoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&ring_color=7c3aed&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Romyajit-Sahoo&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=818cf8&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Romyajit-Sahoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&ring_color=7c3aed&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Romyajit-Sahoo&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=818cf8&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
 
 <br/>
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Romyajit-Sahoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Romyajit-Sahoo&repo=Smart-To-Do-App&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Romyajit-Sahoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Romyajit-Sahoo&repo=Smart-To-Do-App&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Pinned Repository" />
 
 </div>
 
@@ -539,10 +429,27 @@ Role: Feature Development
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ==================== LEETCODE JOURNEY ==================== -->
+<div align="center">
+  <h2>🧩 LeetCode Journey</h2>
+  <p><em>Continuous problem solving &bull; Real-time dynamic statistics</em></p>
 
+  <a href="https://leetcode.com/u/Romyajit-01010010/">
+    <img src="https://leetcard.jacoblin.cool/Romyajit-01010010?theme=tokyonight&font=Karma" alt="Romyajit's Dynamic LeetCode Stats" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://leetcode.com/u/Romyajit-01010010/">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" alt="Visit LeetCode Profile" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
 </div>
@@ -551,30 +458,33 @@ Role: Feature Development
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romyajit-Sahoo/Romyajit-Sahoo/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romyajit-Sahoo/Romyajit-Sahoo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Romyajit-Sahoo/Romyajit-Sahoo/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Romyajit-Sahoo/Romyajit-Sahoo/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
-
-> 💡 **One-time Setup:** Create a `.github/workflows/snake.yml` file in your profile repo to auto-generate the snake. See [Platane/snk](https://github.com/Platane/snk) for the workflow file.
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CODING PROFILES                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ==================== SOCIAL LINKS ==================== -->
 <div align="center">
   <h2>🌐 Find Me Across the Web</h2>
 </div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Romyajit--Sahoo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Romyajit-Sahoo)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Romyajit--01010010-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/Romyajit-01010010/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Romyajit_Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/romyajitsahoo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://romyajitsahoo.vercel.app)
+<a href="https://github.com/Romyajit-Sahoo">
+  <img src="https://img.shields.io/badge/GitHub-Romyajit--Sahoo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+</a>
+<a href="https://leetcode.com/u/Romyajit-01010010/">
+  <img src="https://img.shields.io/badge/LeetCode-Romyajit--01010010-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" />
+</a>
+<a href="https://linkedin.com/in/romyajitsahoo">
+  <img src="https://img.shields.io/badge/LinkedIn-Romyajit_Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+</a>
+<a href="https://romyajitsahoo.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -582,26 +492,20 @@ Role: Feature Development
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    QUOTES SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ==================== DEV QUOTE ==================== -->
 <div align="center">
   <h2>💭 Dev Quote of the Day</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote of the Day" />
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     FOOTER WAVE                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ==================== FOOTER ==================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" alt="Footer Wave" />
 
 <br/>
 
@@ -612,6 +516,6 @@ Role: Feature Development
 <br/>
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20in%20India-a78bfa?style=for-the-badge&labelColor=0d1117)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-September%202026-818cf8?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Building%20%26%20Learning-818cf8?style=for-the-badge&labelColor=0d1117)
 
 </div>
