@@ -541,9 +541,9 @@ Role: Feature Development
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomyajitSahoo/RomyajitSahoo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomyajitSahoo/RomyajitSahoo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RomyajitSahoo/RomyajitSahoo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romyajit-Sahoo/Romyajit-Sahoo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romyajit-Sahoo/Romyajit-Sahoo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Romyajit-Sahoo/Romyajit-Sahoo/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -563,7 +563,7 @@ Role: Feature Development
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-RomyajitSahoo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/RomyajitSahoo)
+[![GitHub](https://img.shields.io/badge/GitHub-Romyajit-Sahoo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Romyajit-Sahoo)
 [![LeetCode](https://img.shields.io/badge/LeetCode-romyajitsahoo-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/romyajitsahoo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Romyajit_Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/romyajitsahoo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://romyajitsahoo.vercel.app)
