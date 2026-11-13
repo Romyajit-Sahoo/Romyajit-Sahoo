@@ -1,4 +1,4 @@
-<!-- Note: This README is intentionally structured so skills, projects, and current learning can be updated manually. -->
+  <!-- Note: This README is intentionally structured so skills, projects, and current learning can be updated manually. -->
 
 <div align="center">
 
@@ -54,7 +54,6 @@
 <td width="50%" valign="top">
 
 ### 🚀 What I Do & Build
-- 🎓 **Currently Building:** [EduTrack](https://github.com/Romyajit-Sahoo/EduTrack) — Centralized Student Activity Platform
 - 🧠 **Problem Solving:** Pattern-wise DSA & Active LeetCode Problem Solving
 - ⚛️ **Frontend Focus:** React *(Almost Complete)* for full-stack capability
 - 🌐 **Core Interests:** Backend Architecture, System Design, AI Applications & Gemini API
@@ -84,10 +83,6 @@
       <sub>🧠 Pattern-wise Solving</sub>
     </td>
     <td align="center" width="160">
-      <img src="https://img.shields.io/badge/Recursion-Current_Topic-e11d48?style=flat-square&logoColor=white" alt="Recursion" /><br/>
-      <sub>🎯 Current Topic</sub>
-    </td>
-    <td align="center" width="160">
       <a href="https://leetcode.com/u/Romyajit-01010010/">
         <img src="https://img.shields.io/badge/LeetCode-Active_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /><br/>
         <sub>⚡ Problem Solving</sub>
@@ -102,14 +97,6 @@
     <td align="center" width="160">
       <img src="https://img.shields.io/badge/MongoDB-Learning-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /><br/>
       <sub>🗄️ Database & Projects</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/System_Design-Fundamentals-1d4ed8?style=flat-square&logoColor=white" alt="System Design" /><br/>
-      <sub>🏗️ Fundamentals</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/Gemini_API-AI_Integration-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" /><br/>
-      <sub>🤖 AI Integration</sub>
     </td>
   </tr>
 </table>
