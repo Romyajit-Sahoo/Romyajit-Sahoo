@@ -91,10 +91,6 @@
   </tr>
   <tr>
     <td align="center" width="160">
-      <img src="https://img.shields.io/badge/React-Almost_Complete-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /><br/>
-      <sub>⚛️ Almost Complete</sub>
-    </td>
-    <td align="center" width="160">
       <img src="https://img.shields.io/badge/MongoDB-Learning-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /><br/>
       <sub>🗄️ Database & Projects</sub>
     </td>
@@ -105,93 +101,14 @@
 
 ---
 
-<!-- ==================== DSA JOURNEY ==================== -->
-<div align="center">
-  <h2>⚔️ DSA Journey</h2>
-  <p><em>"Every algorithm mastered is a superpower unlocked."</em></p>
-</div>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
 
-### ✅ Completed Topics
-```
-✅  Variables & Data Types
-✅  Loops & Iterations
-✅  Conditions & Control Flow
-✅  Arrays — Basics
-✅  HashMap Frequency Pattern
-✅  Sliding Window Technique
-✅  Two Pointer Technique
-🔥  Recursion ← CURRENT
-```
-
-</td>
-<td valign="top" width="50%">
-
-### 🗺️ Roadmap Ahead
-```
-🔲  Linked List
-🔲  Stack & Queue
-🔲  Trees & Binary Search Trees
-🔲  Graphs & BFS/DFS
-🔲  Sorting Algorithms
-🔲  Greedy Algorithms
-🔲  Dynamic Programming
-🔲  Advanced Patterns
-```
 
 </td>
 </tr>
 </table>
 
 <br/>
-
----
-
-<!-- ==================== REACT JOURNEY ==================== -->
-<div align="center">
-  <h2>⚛️ React Journey</h2>
-  <p><em>Status: Almost Complete &bull; Final Revision</em></p>
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### ✅ Completed
-```
-✅  React Fundamentals
-✅  JSX
-✅  Components
-✅  Props
-✅  useState
-✅  useEffect
-✅  Mapping / List Rendering
-✅  Vite
-✅  React Project Development
-```
-
-</td>
-<td valign="top" width="50%">
-
-### 🔄 Final Stage
-```
-🔄  Concept Revision
-🔄  Project Building
-🔄  Better Architecture
-🔄  React + Backend Integration
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
 <!-- ==================== TECH STACK ==================== -->
 <div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
@@ -207,178 +124,15 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 #### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🔐 Authentication
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-
-#### 🤖 AI
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-#### ☁️ Cloud & Hosting
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 #### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<!-- ==================== FEATURED PROJECTS ==================== -->
-<!-- To add a new project: Copy one project card block below and update the details. -->
-
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-  <p><em>Ideas turned into reality — built with passion, code, and late nights.</em></p>
-</div>
-
-<table align="center">
-<tr>
-
-<!-- PROJECT 1: EduTrack -->
-<td width="50%" valign="top">
-<div align="center">
-
-### 🎓 EduTrack
-**Centralized Digital Platform for Student Activity Records in HEIs**
-
-[![EduTrack](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square&labelColor=1a1a2e)](https://github.com/Romyajit-Sahoo/EduTrack)
-
-```
-Tech Stack:
-React + MongoDB + Appwrite
-Gemini API + Cloudinary
-```
-
-**Key Features:**
-- 📜 Certificate Verification System
-- 🧑‍💼 Student Portfolio Builder
-- 🐙 GitHub Activity Integration
-- 💡 LeetCode Stats Integration
-- 📊 Admin Dashboard & Analytics
-- 📋 Complete Activity Tracking
-
-**Repository:** [github.com/Romyajit-Sahoo/EduTrack](https://github.com/Romyajit-Sahoo/EduTrack)
-
-</div>
-</td>
-
-<!-- PROJECT 2: Smart ToDo -->
-<td width="50%" valign="top">
-<div align="center">
-
-### ✅ Smart ToDo App
-**Productivity tracker with deep analytics & focus tools**
-
-[![SmartTodo](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square&labelColor=1a1a2e)](https://github.com/Romyajit-Sahoo/Smart-To-Do-App)
-
-```
-Tech Stack:
-React + LocalStorage
-Vanilla CSS
-```
-
-**Key Features:**
-- 📊 Analytics Dashboard
-- 🎯 Productivity Tracking
-- ⏱️ Focus Mode Timer
-- 📈 Focus Analytics
-- 📅 Calendar View
-- 🌙 Dark Mode
-
-**Repository:** [github.com/Romyajit-Sahoo/Smart-To-Do-App](https://github.com/Romyajit-Sahoo/Smart-To-Do-App)
-
-</div>
-</td>
-
-</tr>
-<tr>
-
-<!-- PROJECT 3: Currency Converter -->
-<td width="50%" valign="top">
-<div align="center">
-
-### 💱 Currency Converter
-**Real-time currency conversion using live exchange rates**
-
-[![CurrencyConverter](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square&labelColor=1a1a2e)](https://github.com/Romyajit-Sahoo/-Currency-Converter)
-
-```
-Tech Stack:
-JavaScript + Exchange Rate API
-HTML + CSS
-```
-
-**Key Features:**
-- 🌐 Live Exchange Rates
-- ⚡ Instant Conversion
-- 🔁 Swap Currencies
-- 📱 Responsive Design
-
-**Repository:** [github.com/Romyajit-Sahoo/-Currency-Converter](https://github.com/Romyajit-Sahoo/-Currency-Converter)
-
-</div>
-</td>
-
-<!-- PROJECT 4: Portfolio -->
-<td width="50%" valign="top">
-<div align="center">
-
-### 🌐 Portfolio Website
-**Personal portfolio showcasing skills & projects**
-
-[![Portfolio](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square&labelColor=1a1a2e)](https://github.com/Romyajit-Sahoo/portfolio)
-
-```
-Tech Stack:
-HTML + CSS + JavaScript
-Custom Animations
-```
-
-**Key Features:**
-- 🎨 Clean Modern Design
-- 📂 Project Showcase
-- 💼 Resume Download
-- 📬 Contact Form
-
-**Repository:** [github.com/Romyajit-Sahoo/portfolio](https://github.com/Romyajit-Sahoo/portfolio)  
-**Live Demo:** [romyajitsahoo.vercel.app](https://romyajitsahoo.vercel.app)
-
-</div>
-</td>
-
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ==================== CURRENT FOCUS ==================== -->
-<div align="center">
-  <h2>🎯 Current Focus</h2>
-  <p><em>What I'm actively working on right now</em></p>
-
-| 🚀 Focus Area | 🏷️ Status |
-| :--- | :---: |
-| ☕ Java | 🔥 Learning |
-| 🧠 DSA | 🔥 Active |
-| 🔄 Recursion | 🎯 Current Topic |
-| ⚡ LeetCode | ⚡ Active |
-| ⚛️ React | ✅ Almost Complete |
-| 🎓 EduTrack | 🚀 Building |
-| 🏗️ System Design | 📚 Learning |
-| 🤖 Gemini API | 🤖 Exploring |
 
 </div>
 
