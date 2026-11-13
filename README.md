@@ -153,7 +153,6 @@
 <br/>
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Romyajit-Sahoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Romyajit-Sahoo&repo=Smart-To-Do-App&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Pinned Repository" />
 
 </div>
 
